@@ -114,7 +114,7 @@ public class Affichage extends JPanel {
             graph.drawImage(oiseau6, 0, e.getHauteur()-80, 300,300 , null);
         }
         if (clic ==7){
-            graph.drawImage(oiseau7, 0, e.getHauteur()+80, 300,300 , null);
+            graph.drawImage(oiseau7, 0, e.getHauteur()-80, 300,300 , null);
         }
 
         //Initialise le tableau de point qui compose le parcours
